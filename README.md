@@ -6,4 +6,4 @@
 
 > [#3 Comments and the Include Control Structure](https://www.youtube.com/watch?v=LLSKQbKbaVg&list=PL6C3CB409A8577C2F&index=3)
 
-<!-- > [#4 Variables in Print](https://www.youtube.com/watch?v=RYrA3SNPtAU&index=4&list=PL6C3CB409A8577C2F) -->
+> [#4 Variables in Print](https://www.youtube.com/watch?v=RYrA3SNPtAU&index=4&list=PL6C3CB409A8577C2F)
