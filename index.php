@@ -6,8 +6,9 @@
 <?php
 
   // two forward slashes will comment a single line of code inside of php tags
-
-  print "<h1>hello<br>world</h1>";
+  $string = "hello world";
+  $year = 2016;
+  print "<h1>$string $year</h1>";
 
   // include 'greeting.php';
 
